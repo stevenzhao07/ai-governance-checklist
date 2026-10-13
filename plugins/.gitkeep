@@ -1,0 +1,2 @@
+# 扩展点（plugins/）
+新增控制项：在 `CONTROL_CATALOG` 加一项，检查单自动扩。

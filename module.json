@@ -1,0 +1,45 @@
+{
+  "id": "ai-governance-checklist",
+  "title": "医疗 AI 治理聚合仓（模型卡/数据卡/人类监督检查单）",
+  "description": "医疗 AI 治理的聚合开源仓：模型卡 / 数据卡模板 + 人类监督（human-in-the-loop）检查单 + 公平性测试骨架 + OWASP AI Exchange 医疗章节输入。把「人机共存」理念落到治理清单。",
+  "triggers": {
+    "keywords": [
+      "ai-governance",
+      "model-card",
+      "data-card",
+      "human-oversight",
+      "fairness",
+      "治理",
+      "checklist"
+    ],
+    "file_patterns": [
+      "gov_checklist.py",
+      "templates/model_card.md",
+      "templates/data_card.md"
+    ],
+    "intents": [
+      "AI治理",
+      "模型卡",
+      "人类监督",
+      "公平性"
+    ]
+  },
+  "provides": [
+    "ai-governance-checklist",
+    "governance",
+    "model-card",
+    "checklist"
+  ],
+  "skills": [],
+  "needs_backends": [],
+  "license": "CC-BY-4.0",
+  "upstream": "OWASP AI Exchange / aiverify-foundation",
+  "cost": "low",
+  "lazy": true,
+  "nested": true,
+  "entry": "scripts/gov_checklist.py",
+  "deps": [],
+  "generated_by": "lgd-skeleton/1.0 (manual port from rea scaffold)",
+  "idea": "医疗 AI 治理：模型卡/数据卡 + 人类监督 + 公平性（人机共存落地）",
+  "extension_note": "新增控制项：在 `CONTROL_CATALOG` 加一项，检查单自动扩。"
+}
