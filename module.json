@@ -1,5 +1,7 @@
 {
   "id": "ai-governance-checklist",
+  "stage": "G",
+  "stage_name": "AI 治理层",
   "title": "医疗 AI 治理聚合仓（模型卡/数据卡/人类监督检查单）",
   "description": "医疗 AI 治理的聚合开源仓：模型卡 / 数据卡模板 + 人类监督（human-in-the-loop）检查单 + 公平性测试骨架 + OWASP AI Exchange 医疗章节输入。把「人机共存」理念落到治理清单。",
   "triggers": {
