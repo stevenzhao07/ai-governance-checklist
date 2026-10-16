@@ -30,7 +30,7 @@
 
 ## 内容说明
 
-本仓混合许可：自创模板 CC BY 4.0；投向上游 OWASP AI Exchange（医疗章节）、aiverify-foundation（骨科公平性插件）。标准轨道用个人专家 Xinghua Zhao 弱品牌。
+本仓混合许可：自创模板 CC BY 4.0；投向上游 OWASP AI Exchange（医疗章节）、aiverify-foundation（骨科公平性插件）。标准轨道以个人专家 Xinghua Zhao 名义参与社区贡献。
 
 ## 免责声明
 
