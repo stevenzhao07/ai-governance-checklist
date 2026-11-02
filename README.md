@@ -1,6 +1,8 @@
 # ai-governance-checklist
 
-> **Contributed by [@stevenzhao07](https://github.com/stevenzhao07) · Affiliation: MedXpert (medical-device RA & regulatory consultancy) · Pure technical input, no commercial promotion.**
+> Contributed by [@stevenzhao07](https://github.com/stevenzhao07) as an individual project owner.
+> "MedXpert" is an unregistered project identifier — see the account profile for name status.
+> This repo is not affiliated with any legal entity and contains no commercial promotion.
 
 医疗 AI 治理的聚合开源仓：模型卡 / 数据卡模板 + 人类监督（human-in-the-loop）检查单 + 公平性测试骨架 + OWASP AI Exchange 医疗章节输入。把「人机共存」理念落到治理清单。
 
