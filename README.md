@@ -64,9 +64,9 @@ python scripts/gov_checklist.py --demo
 
 ## 关联模块
 
-- [ai-a3-laws](https://github.com/stevenzhao07/ai-a3-laws)
+- ai-a3-laws（未建仓·计划中）
 - [ai-model-passport](https://github.com/stevenzhao07/ai-model-passport)
-- [ml-validation-toolkit](https://github.com/stevenzhao07/ml-validation-toolkit)
+- ml-validation-toolkit（未建仓·计划中）
 
 ## 许可
 
